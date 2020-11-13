@@ -1,7 +1,7 @@
 ## Kelompok kita 
 
-* Adella Nurrinjani
-* Bayu Pratama
+* Adella Nurrinjani (0110218001)
+* Bayu Pratama (0110218064):nerd_face:
 * Ikhsan Nur
 *
 *

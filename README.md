@@ -3,9 +3,11 @@
 * Adella Nurrinjani (0110218001)
 * Bayu Pratama (0110218064):nerd_face:
 * Ikhsan Nur
-*
-*
-*
+* Efrizal (0110218024)
+* M. Rizki Hanif (0110218025)
+* M. Ghilman Firdaus (0110218053)
+* Aswar (NIM)
+* Lilik Triyawan (NIM)
 
 ## Kenalan Yuk
 

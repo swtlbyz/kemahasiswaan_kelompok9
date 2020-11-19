@@ -2,12 +2,12 @@
 
 * Adella Nurrinjani (0110218001)
 * Bayu Pratama (0110218064)
-* Ikhsan Nur
+* Ikhsan Nur (0110218013)
 * Efrizal (0110218024)
 * M. Rizki Hanif (0110218025)
 * M. Ghilman Firdaus (0110218053)
-* Aswar (NIM)
-* Lilik Triyawan (NIM)
+* Aswar (0110218009)
+* Lilik Triyawan (0110218048)
 
 ## Kenalan Yuk
 
@@ -27,8 +27,9 @@ Ingin berkontribusi? Bagaimana caranya?
 Additional notes
 ---
 
-Jika ingin perubahan up-to-date atau sinkron dengan repositori original yang kita fork:
+Jika ingin perubahan up-to-date atau sinkron dengan repository original yang kita fork:
 - tambahkan alamat git repo original ```https://github.com/swtlbyz/kemahasiswaan_kelompok9.git```, untuk syntax command: ```git remote add upstream https://github.com/[Original Owner Username]/[Original Repository].git``` atau contoh lengkapnya: ```git remote add upstream https://github.com/swtlbyz/kemahasiswaan_kelompok9.git```
 - setelah itu fetch semua perubahan dari repository original ```git fetch upstream```
 - setelah itu dipull ```git pull```
-***HAPPY CODING!***:sunglasses:
+
+**HAPPY CODING!**:sunglasses:

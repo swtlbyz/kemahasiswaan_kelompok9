@@ -1,6 +1,7 @@
 ## Kelompok kita
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Adella Nurrinjani (0110218001)
 * Bayu Pratama (0110218064)
 * Ikhsan Nur (0110218013)
@@ -10,6 +11,8 @@
 * Aswar (0110218009)
 * Lilik Triyawan (0110218048)
 =======
+=======
+>>>>>>> 0bea9096a896d840ad55b99b83e6caba2ea30f1f
 - Adella Nurrinjani (0110218001)
 - Bayu Pratama (0110218064):nerd_face:
 - Ikhsan Nur (0110218013)
@@ -18,7 +21,10 @@
 - M. Ghilman Firdaus (0110218053)
 - Aswar (NIM)
 - Lilik Triyawan (NIM)
+<<<<<<< HEAD
 >>>>>>> 29f8062... test
+=======
+>>>>>>> 0bea9096a896d840ad55b99b83e6caba2ea30f1f
 
 ## Kenalan Yuk
 
@@ -29,9 +35,12 @@ Ini adalah project pembuatan menu Kemahasiswaan menggunakan Flutter :smile:
 Ingin berkontribusi? Bagaimana caranya?
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. Fork repository ini ```https://github.com/swtlbyz/kemahasiswaan_kelompok9.git```
 2. Cek repository di profile github kalian
 =======
+=======
+>>>>>>> 0bea9096a896d840ad55b99b83e6caba2ea30f1f
 1. Fork repository ini `https://github.com/swtlbyz/kemahasiswaan_kelompok9.git`
 2. Cek repository diprofile github kalian
 >>>>>>> 29f8062... test
@@ -39,6 +48,7 @@ Ingin berkontribusi? Bagaimana caranya?
 4. Jika sudah berhasil diclone, jangan lupa untuk pindah ke branch **'dev'** ya
 5. Jangan lupa untuk membuat Pull Request jika ingin menggabungkan source kalian ke repository:smiley:
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Additional notes
 ---
@@ -52,3 +62,6 @@ Jika ingin perubahan up-to-date atau sinkron dengan repository original yang kit
 =======
 **_HAPPY CODING!_**:sunglasses:
 >>>>>>> 29f8062... test
+=======
+**_HAPPY CODING!_**:sunglasses:
+>>>>>>> 0bea9096a896d840ad55b99b83e6caba2ea30f1f

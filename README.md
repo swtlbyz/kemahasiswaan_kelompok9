@@ -18,7 +18,7 @@ Ini adalah project pembuatan menu Kemahasiswaan menggunakan Flutter :smile:
 
 Ingin berkontribusi? Bagaimana caranya?
 
-1. Fork repository ini ```https://github.com/swtlbyz/kemahasiswaan_kelompok9.git```
+1. Fork repository ini `https://github.com/swtlbyz/kemahasiswaan_kelompok9.git`
 2. Cek repository di profile github kalian
 3. Clone repository hasil fork ke local (pc) kalian
 4. Jika sudah berhasil diclone, jangan lupa untuk pindah ke branch **'dev'** ya
@@ -28,8 +28,8 @@ Additional notes
 ---
 
 Jika ingin perubahan up-to-date atau sinkron dengan repository original yang kita fork:
-- tambahkan alamat git repo original ```https://github.com/swtlbyz/kemahasiswaan_kelompok9.git```, untuk syntax command: ```git remote add upstream https://github.com/[Original Owner Username]/[Original Repository].git``` atau contoh lengkapnya: ```git remote add upstream https://github.com/swtlbyz/kemahasiswaan_kelompok9.git```
-- setelah itu fetch semua perubahan dari repository original ```git fetch upstream```
-- setelah itu dipull ```git pull```
+- tambahkan alamat git repo original `https://github.com/swtlbyz/kemahasiswaan_kelompok9.git`, untuk syntax command: `git remote add <nama remote> https://github.com/[Original Owner Username]/[Original Repository].git` atau contoh lengkapnya: `git remote add bayu https://github.com/swtlbyz/kemahasiswaan_kelompok9.git`
+- setelah itu fetch semua perubahan dari repository original `git fetch bayu`
+- setelah itu dipull `git pull`
 
-**HAPPY CODING!**:sunglasses:
+**_HAPPY CODING!_**:sunglasses:

@@ -51,7 +51,7 @@ class _HomeState extends State<Home> {
               Row(
                 children: [
                   MaterialButton(
-                    minWidth: 40,
+                    // minWidth: 40,
                     onPressed: () {
                       setState(
                         () {
@@ -81,7 +81,7 @@ class _HomeState extends State<Home> {
               Row(
                 children: [
                   MaterialButton(
-                    minWidth: 40,
+                    // minWidth: 40,
                     onPressed: () {
                       setState(
                         () {
@@ -111,7 +111,7 @@ class _HomeState extends State<Home> {
               Row(
                 children: [
                   MaterialButton(
-                    minWidth: 40,
+                    // minWidth: 40,
                     onPressed: () {
                       setState(
                         () {
@@ -141,7 +141,7 @@ class _HomeState extends State<Home> {
               Row(
                 children: [
                   MaterialButton(
-                    minWidth: 40,
+                    // minWidth: 40,
                     onPressed: () {
                       setState(
                         () {
@@ -167,7 +167,7 @@ class _HomeState extends State<Home> {
                     ),
                   ),
                 ],
-              )
+              ),
             ],
           ),
         ),

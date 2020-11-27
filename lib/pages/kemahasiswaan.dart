@@ -10,7 +10,9 @@ class _KemahasiswaanState extends State<Kemahasiswaan> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: LinkButton(Colors.blue),
+      body: Container(
+        child: LinkButton(Colors.blue),
+      ),
     );
   }
 }

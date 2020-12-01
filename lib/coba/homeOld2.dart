@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:kemahasiswaan_kelompok9/pages/kemahasiswaan/linkbutton.dart';
 
-class HomeDua extends StatelessWidget {
+class HomeOld2 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     TabBar myTabBar = TabBar(

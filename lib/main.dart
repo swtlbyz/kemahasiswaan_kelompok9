@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:kemahasiswaan_kelompok9/pages/home.dart';
-// import 'package:kemahasiswaan_kelompok9/homedua.dart';
 
 void main() {
   runApp(MyApp());

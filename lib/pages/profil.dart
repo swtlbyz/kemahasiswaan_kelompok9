@@ -8,10 +8,11 @@ class Profil extends StatefulWidget {
 class _ProfilState extends State<Profil> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('profil'),
-      ),
+    return MaterialApp(
+        debugShowCheckedModeBanner: false,
+        home: Scaffold(
+          body: Center(child: Text('Profil',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 25), ),),
+        )
     );
   }
 }

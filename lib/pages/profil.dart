@@ -10,7 +10,13 @@ class _ProfilState extends State<Profil> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('profil'),
+        title: Text('Profil'),
+      ),
+      body: Center(
+        child: Text(
+          'Profil',
+          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),
+        ),
       ),
     );
   }
